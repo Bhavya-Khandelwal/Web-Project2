@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(255, 242, 237);
+    
+}
+.more img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about p{
+    font-weight: bold;
+    font-size: 30px;
+}
+
